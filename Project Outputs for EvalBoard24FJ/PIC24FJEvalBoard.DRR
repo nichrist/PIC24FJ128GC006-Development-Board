@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PIC24FJEvalBoard.PcbDoc   20/11/2017  08:47:36
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PIC24FJEvalBoard.TXT
+EIA File   : PIC24FJEvalBoard.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        23.6mil (0.59944mm)      Round          35               15.24 Inch (386.98 mm)
+T2        27.6mil (0.70104mm)      Round          57               21.43 Inch (544.36 mm)
+T3        35.4mil (0.89916mm)      Round          77               20.58 Inch (522.78 mm)
+T4        39.4mil (1.00076mm)      Round          104              25.12 Inch (638.06 mm)
+T5        47.2mil (1.19888mm)      Round          8                2.67 Inch (67.86 mm)
+T6        82.7mil (2.10058mm)      Round          2                0.47 Inch (12.04 mm)
+T7        118.1mil (2.99974mm)     Round          2                0.98 Inch (25.00 mm)
+T8        137.8mil (3.50012mm)     Round          4                12.10 Inch (307.28 mm)
+---------------------------------------------------------------------------
+Totals                                            289              98.60 Inch (2504.36 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

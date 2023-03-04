@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [EvalBoard24FJ.PrjPCB]
+   Generated File[PIC24FJEvalBoard.TXT]
+   Generated File[PIC24FJEvalBoard.DRL]
+   Generated File[PIC24FJEvalBoard.LDP]
+   Generated File[PIC24FJEvalBoard.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 08:47:37 On 20/11/2017

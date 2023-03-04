@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: D:\OneDrive\PIC24FJ128GC006_link\CAD\PIC24FJEvalBoard.PcbDoc
+RuleKind=Clearance|RuleName=HighVoltage|Scope=Board|Minimum=20.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion1mil|Scope=Board|Minimum=1.50
+RuleKind=Clearance|RuleName=9_5mil|Scope=Board|Minimum=9.50
+RuleKind=Clearance|RuleName=General Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion2mil|Scope=Board|Minimum=2.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansionVia|Scope=Board|Minimum=-30.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansionGeneral|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=KeepOutClearance|Scope=Board|Minimum=1.00
+RuleKind=Clearance|RuleName=9mil|Scope=Board|Minimum=9.00
